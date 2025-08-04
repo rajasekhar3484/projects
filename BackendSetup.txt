@@ -1,0 +1,3 @@
+Install Node.js dependencies: npm install express cors.
+Run the backend: node server.js.
+The server will run on http://localhost:3000
